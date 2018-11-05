@@ -5,10 +5,10 @@
 In a nutshell, hashing password is to hash the passwords using sha512 algorithm, which is written in Python 2.7 and Flask Frame work
 
 # How to use Password Hasher
-
-- Install dependencies
+# Python Version: 2.7
+#- Install dependencies
   pip install hashlib wtforms
-- run python command
+#- run python command
   python hash.py
 
 
