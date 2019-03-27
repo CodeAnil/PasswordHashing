@@ -19,7 +19,7 @@ Our latest and greatest source of Password Hashing can be found on [GitHub]. For
 All information about Jenkins can be found on our [website]. Follow us on Twitter [@gakyp].
 
 # License
-Jenkins is **licensed** under the **[MIT License]**. The terms of the license are as follows:
+Password hasher is **licensed** under the **[MIT License]**. The terms of the license are as follows:
 
     The MIT License (MIT)
 
